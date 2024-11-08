@@ -20,7 +20,8 @@
     "react-dom": "^18.3.1",
     "react-reader": "^2.0.11",
     "tailwind-merge": "^2.5.4",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "use-local-storage-state": "^19.4.1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20241106.0",
